@@ -1,0 +1,47 @@
+div.table {
+    position: relative;
+    margin: 150px 350px;
+    height: 400px;
+}
+body {
+    background-image: url(../image/stella.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+div.header {
+    border: 0px;
+    text-align: center;
+    font-size: larger;
+    color: white;
+    background-color: #666666;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+div.link {
+    position: absolute;
+    right: 650px;
+    left: 0px;
+    background-color: darkgray;
+    padding-left: 15px;
+    padding-top: 20px;
+    height: 206px;
+}
+div.paragraph {
+    position: absolute;
+    left: 150px;
+    right: 0px;
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 5px;
+    height: 206px;
+}
+div.footer {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    color: white;
+    background-color: #666666;
+    left: 0px;
+    right: 0px;
+}
